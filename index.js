@@ -24,14 +24,5 @@
 
 
   function makeInt(n) {
-    parseInt("n")
-  var parsed = parseInt("n", 10);
-  if makeInt = { return 0 }
-  return parsed ;
-}
-
-console.log(makeint(' 0x2328', 10));
-// expected output: 1500
-
-console.log(roughScale('321', 2));
-// expected output: 0
+    return parseInt(n, 10)
+  }
